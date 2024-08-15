@@ -1,0 +1,241 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uhblg0Mit38=",
+  "success": false,
+  "projectFilePath": "D:\\C#\\PROJECTS001\\GITHUB\\Task-Management-System-Project-Using-Asp.Net-MVC--srikanth\\TaskManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.6\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.6.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.6\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.6.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\microsoft.aspnetcore.identity.ui.6.0.6.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.6\\microsoft.entityframeworkcore.sqlserver.6.0.6.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.6\\microsoft.entityframeworkcore.tools.6.0.6.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\6.0.6\\microsoft.visualstudio.web.codegeneration.design.6.0.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2). Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2). Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2). Package Microsoft.EntityFrameworkCore.SqlServer 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2). Package Microsoft.EntityFrameworkCore.Tools 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2). Package Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win. Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win. Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win. Package Microsoft.EntityFrameworkCore.SqlServer 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win. Package Microsoft.EntityFrameworkCore.Tools 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win. Package Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-arm64. Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-arm64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-arm64. Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-arm64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-arm64. Package Microsoft.EntityFrameworkCore.SqlServer 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-arm64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-arm64. Package Microsoft.EntityFrameworkCore.Tools 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-arm64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-arm64. Package Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-arm64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-x64. Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-x64. Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-x64. Package Microsoft.EntityFrameworkCore.SqlServer 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-x64. Package Microsoft.EntityFrameworkCore.Tools 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-x64. Package Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-x86. Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-x86. Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-x86. Package Microsoft.EntityFrameworkCore.SqlServer 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-x86. Package Microsoft.EntityFrameworkCore.Tools 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.6 is not compatible with net472 (.NETFramework,Version=v4.7.2) / win-x86. Package Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.6 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}

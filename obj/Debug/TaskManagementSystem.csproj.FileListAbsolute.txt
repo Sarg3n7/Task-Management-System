@@ -1,0 +1,5 @@
+D:\C#\PROJECTS001\GITHUB\Task-Management-System-Project-Using-Asp.Net-MVC--srikanth\obj\Debug\TaskManagementSystem.csproj.AssemblyReference.cache
+D:\C#\PROJECTS001\GITHUB\Task-Management-System-Project-Using-Asp.Net-MVC--srikanth\obj\Debug\TaskManagementSystem.Migrations.createdbandtables.resources
+D:\C#\PROJECTS001\GITHUB\Task-Management-System-Project-Using-Asp.Net-MVC--srikanth\obj\Debug\TaskManagementSystem.Migrations.changestatusdatatype_in_TaskModelClass.resources
+D:\C#\PROJECTS001\GITHUB\Task-Management-System-Project-Using-Asp.Net-MVC--srikanth\obj\Debug\TaskManagementSystem.csproj.GenerateResource.cache
+D:\C#\PROJECTS001\GITHUB\Task-Management-System-Project-Using-Asp.Net-MVC--srikanth\obj\Debug\TaskManagementSystem.csproj.CoreCompileInputs.cache
